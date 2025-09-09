@@ -14,7 +14,7 @@ const menuItems: MenuItem[] = [
     id: 'kspd-app',
     title: 'KSPD APP 使用说明',
     content: [
-      '1. 志华',
+      '1. 登录账号',
       '• 打开KSPD APP',
       '• 输入用户名和密码',
       '• 点击登录按钮',
