@@ -14,7 +14,7 @@ const menuItems: MenuItem[] = [
     id: 'kspd-app',
     title: 'KSPD APP 使用说明',
     content: [
-      '1. 登录',
+      '1. 登录1234',
       '• 打开KSPD APP',
       '• 输入用户名和密码',
       '• 点击登录按钮',
@@ -38,7 +38,7 @@ const menuItems: MenuItem[] = [
     id: 'kspd-pc',
     title: 'KSPD PC软件说明',
     content: [
-      '1. 登录',
+      '1. 登录4321',
       '• 启动KSPD PC软件',
       '• 在登录界面输入账号密码',
       '• 选择服务器地址',
